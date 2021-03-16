@@ -1,7 +1,7 @@
 # Loan-Performance-Regression-Classifictaion
 (Repo for a machine learning proejct I completed during my master's study in JHU. Through this project, I got a better understanding of the process of building regression and classification models and some details of data processing) 
 
-The aim of this project is to develop prediction models for the length of time that Federal National Mortgage Association(FNMA) holds a mortgage loan and for predicting foreclosure of a loan, based on information available to FNMA at the time the loan is put on their books. The data used is a portion of the single family loan
+The aim of this project is to develop prediction models for `the length of time` that Federal National Mortgage Association(FNMA) holds a mortgage loan and for predicting `foreclosure` of a loan, based on information available to FNMA at the time the loan is put on their books. The data used is a portion of the single family loan
 portfolio for FNMA originating in the second quarter of 2000.
 
 
