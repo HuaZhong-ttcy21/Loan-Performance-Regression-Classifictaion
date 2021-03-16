@@ -10,7 +10,7 @@ The original raw data set is stored in `TRAIN.csv` with 200,000 rows and 108 col
 ### 1st Part -Regression
 The response for the regression model is `'MONTHS'`, the number of months until the mortgage is taken off the books due to foreclo-sure, prepayment, etc.. The mertic used here is `Mean Absolute Value`. Since I completed features selection that is also essential to the classification in this part , this regression part should be read first. 
 ### 2nd part -Classification
-The response for the classification model is `'FORCLOSED'`, a boolean variable that indicates whether the mortgage foreclosed (True) or not (False). The mertic used here is overall `Accuracy`. However I sacrifice accuray a bit to imporve the `True Positive Rate`, which I think is more significant in this problem. 
+The response for the classification model is `'FORCLOSED'`, a boolean variable that indicates whether the mortgage foreclosed (True) or not (False). The mertic used here is overall `Accuracy`. However I sacrificed accuray a bit to imporve the `True Positive Rate`, which I think is more significant in this problem. 
 
 
 
